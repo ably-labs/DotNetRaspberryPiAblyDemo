@@ -34,7 +34,7 @@ Refer to [Install and use .NET 5 on the Raspberry PI](https://www.petecodes.co.u
 
 Note: The Raspberry PI 4B is recommended .NET runs very nicely on the 2GB base model.  The code was developed on the 8GB model.  Note that the *oldest* Raspberry PI supported by .NET is the 3.  However this is not recommended due to the memory limitations of the '3.
 
-## Running the demo
+## Running the demo
 
 If you haven't done so already you will need to create a free Ably account and be sure to have your Ably Key handy.
 
